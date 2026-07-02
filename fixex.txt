@@ -1,8 +1,5 @@
 This file is bug fix with out any probleme
 bhai ek our bug ? okay i fixed
-<<<<<<< HEAD
-be bhai footer section nahi hai add karo usko
-=======
 third time bug fixed.
 fourth bug ayaa bhai oo acha lo fix kar diya
 >>>>>>> bug-fix
