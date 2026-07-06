@@ -12,3 +12,4 @@ ques:
 
 Git : Hello How Are You ?
 GitHub : I am fine what are you working today
+Git : I work on a pertice now that one video watch and now i am pertice
